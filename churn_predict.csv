@@ -1,6 +1,6 @@
-State,Account length,Area code,International plan,Voice mail plan,Number vmail messages,Total day minutes,Total day calls,Total day charge,Total eve minutes,Total eve calls,Total eve charge,Total night minutes,Total night calls,Total night charge,Total intl minutes,Total intl calls,Total intl charge,Customer service calls
-AR,76,408,No,No,0,107.3,140,18.24,238.2,133,20.25,271.8,116,12.23,10,3,2.7,4
-UT,100,408,No,No,0,185,122,31.45,182.5,92,15.51,274.9,92,12.37,5.1,8,1.38,1
-DC,99,415,No,Yes,31,244.1,71,41.5,203.4,58,17.29,234,115,10.53,7.7,4,2.08,3
-OH,106,415,No,Yes,30,220.1,105,37.42,222.2,109,18.89,158.4,96,7.13,13.1,8,3.54,0
-KS,170,415,No,Yes,42,199.5,119,33.92,135,90,11.48,184.6,49,8.31,10.9,3,2.94,4
+State,Account length,Area code,International plan,Voice mail plan,Number vmail messages,Total day minutes,Total day calls,Total day charge,Total eve minutes,Total eve calls,Total eve charge,Total night minutes,Total night calls,Total night charge,Total intl minutes,Total intl calls,Total intl charge,Customer service calls,Churn
+AR,76,408,No,No,0,107.3,140,18.24,238.2,133,20.25,271.8,116,12.23,10,3,2.7,4,TRUE
+UT,100,408,No,No,0,185,122,31.45,182.5,92,15.51,274.9,92,12.37,5.1,8,1.38,1,FALSE
+DC,99,415,No,Yes,31,244.1,71,41.5,203.4,58,17.29,234,115,10.53,7.7,4,2.08,3,TRUE
+OH,106,415,No,Yes,30,220.1,105,37.42,222.2,109,18.89,158.4,96,7.13,13.1,8,3.54,0,TRUE
+KS,170,415,No,Yes,42,199.5,119,33.92,135,90,11.48,184.6,49,8.31,10.9,3,2.94,4,FALSE
